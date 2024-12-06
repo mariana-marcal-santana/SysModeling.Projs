@@ -6,6 +6,6 @@
       xsi:type="archimate:Node"
       href="Node_id-03e666d7da484657a27d2173a93be090.xml#id-03e666d7da484657a27d2173a93be090"/>
   <target
-      xsi:type="archimate:Node"
-      href="Node_id-39e50b1191aa4660a6f2ed1843104a30.xml#id-39e50b1191aa4660a6f2ed1843104a30"/>
+      xsi:type="archimate:Equipment"
+      href="Equipment_id-ff1cca50196c42d49512a1188923ea7e.xml#id-ff1cca50196c42d49512a1188923ea7e"/>
 </archimate:CompositionRelationship>

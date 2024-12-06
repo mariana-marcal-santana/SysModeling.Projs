@@ -366,6 +366,16 @@
         id="id-5a1677d038cf4da0940136cc354cf260"
         source="id-baf2e251d43d4d9a9f61d29af14a9597"
         target="id-0e0773887ea14d16896e413a29068f3d">
+      <bendpoints
+          startX="-84"
+          startY="4"
+          endX="27"
+          endY="-62"/>
+      <bendpoints
+          startX="-84"
+          startY="28"
+          endX="27"
+          endY="-38"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-48217d12f1af44fca5949fca608639d0.xml#id-48217d12f1af44fca5949fca608639d0"/>
