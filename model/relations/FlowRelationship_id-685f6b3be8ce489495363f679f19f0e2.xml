@@ -1,7 +1,6 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="dinheiro"
     id="id-685f6b3be8ce489495363f679f19f0e2">
   <source
       xsi:type="archimate:BusinessProcess"

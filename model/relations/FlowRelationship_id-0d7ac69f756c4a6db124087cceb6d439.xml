@@ -1,7 +1,6 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="fatura"
     id="id-0d7ac69f756c4a6db124087cceb6d439">
   <source
       xsi:type="archimate:BusinessProcess"
