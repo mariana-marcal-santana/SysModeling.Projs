@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dinheiro"
+    id="id-685f6b3be8ce489495363f679f19f0e2">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-efbf597f560348caaaf303b5eb6f7040.xml#id-efbf597f560348caaaf303b5eb6f7040"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3df5c115637d4c8f82b70b3ec67e0bc9.xml#id-3df5c115637d4c8f82b70b3ec67e0bc9"/>
+</archimate:FlowRelationship>
